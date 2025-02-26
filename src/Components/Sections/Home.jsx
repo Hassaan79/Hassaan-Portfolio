@@ -13,7 +13,7 @@ export const Home = () => {
                     </h1>
 
                     <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                        I’m a full-stack developer who loves learning, crafting clean, scalable web
+                        I’m a Front-End developer who loves learning, crafting clean, scalable web
                         applications. My goal is to get hired in a good firm which has a good environment and i get to learn a lot of new
                         things from high level developers.
                     </p>
