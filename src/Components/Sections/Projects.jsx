@@ -34,7 +34,7 @@ export const Projects = () => {
 
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://hassaan79.github.io/Expense-Tracker/"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
@@ -71,7 +71,7 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://hassaan79.github.io/To-Do-App/"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
@@ -111,7 +111,7 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://hassaan79.github.io/Quiz-App/"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                                 >
                                     View Project →
