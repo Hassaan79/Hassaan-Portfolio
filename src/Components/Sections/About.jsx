@@ -5,7 +5,7 @@ export const About = () => {
         "React",
         "HTML",
         "CSS",
-        "Little bit of TailwindCSS",
+        "TailwindCSS",
         "JS",
     ];
 
@@ -74,7 +74,7 @@ export const About = () => {
                             <ul className="list-disc list-inside text-gray-300 space-y-2">
                                 <li>
                                     <strong> B.S. in Computer Science </strong> - KIET University
-                                    (2023- Ongoing)
+                                    (2023- Present)
                                 </li>
                                 <li>
                                     Relevant Coursework: Data Structures, Mobile Development, Objeect Oriented Programing...
